@@ -191,6 +191,6 @@ new_window 1pixel
 # Border colors
 # class                 border  backgr. text    indicator
 client.focused          #ff001e #ff001e #ff001e #ff001e
-client.focused_inactive #ff001e #ff001e #ff001e #ff001e
+client.focused_inactive #b30015 #b30015 R#ff001e #ff001e
 client.unfocused        #330006 #330006 #330006 #330006
 client.urgent           #ff99a5 #ff99a5 #ff99a5 #ff99a5
